@@ -1,0 +1,13 @@
+.nav{
+	background: white;
+	position: fixed;
+	top: 0;
+}
+.logo{
+	width: 140px;
+    margin-top: 24px;
+    margin-left: 160px;
+}
+li{
+   display: inline-block;
+}

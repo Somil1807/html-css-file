@@ -1,0 +1,143 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.a{
+	width: 100%;
+	height:25px;
+	background: black;
+	background-attachment: fixed;
+}
+.a p{
+	color: white;
+	text-align: center;
+	padding-top: 3px;
+
+}
+.navbar{
+	width: 100%;
+	height:80px;
+	background: white;
+	background-attachment: fixed;
+}
+.navbar img{
+	width: 150px;
+    height: 46.6px;
+    padding-left: 183px;
+    padding-top: 17px;
+
+}
+ul{
+	margin-left: 677px;
+    margin-top: -37px;
+}
+.navbar ul li{
+	display: inline-block;
+    margin-left: 25px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.navbar ul li a{
+	text-decoration: none;
+	color: black;
+}
+.navbar ul span a{
+	margin-left: 15px;
+	color: black;
+}
+ul span{
+	margin-left: 20px;
+}
+.navbar ul a:hover{
+	color: #af1f31;
+}
+.b{
+	background: url(../image/t41.png);
+	width: 100%;
+	height: 850px;
+	background-repeat: no-repeat;
+	background-size: 100% 850px;
+
+}
+.button{
+	color: #ffffff;
+	font-size: 17px;
+    height: 48px;
+    width: 207px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba;
+    line-height: 43px;
+    margin-top: 361px;
+    margin-left: 218px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+}
+.auto{
+	width: 80%;
+	margin: auto;
+}
+
+.auto div{
+	width: 580px;
+	height: 580px;
+	float: left;
+	margin: 10px;
+}
+.c{
+	background: url(../image/t42.png);
+	background-size: 580px 580px;
+}
+.d{
+	background: url(../image/t43.png);
+	background-size: 580px 580px;
+}
+.e{
+	background: url(../image/t44.png);
+	background-size: 580px 580px;
+}
+.f{
+	background: url(../image/t45.png);
+	background-size: 580px 580px;
+}
+.auto div p{
+	color: white;
+	text-align: center;
+    line-height: 589px;
+}
+.footer{
+	width: 100%;
+	height: 200px;
+	background: black;
+	float: right;
+}
+.text1{
+	color: white;
+    font-size: 23px;
+    font-weight: bold;
+    padding-left: 587px;
+    padding-top: 50px;
+}
+.text2{
+	color: white;
+	margin-left: 596px;
+    font-size: 17px;
+}
+.text3{
+	float: right;
+	margin-right: 1072px;
+    margin-top: 38px;
+}
+.text4{
+	float: right;
+	margin-right: 715px;
+    margin-top: -170px;
+}
+.text4 a{
+	color: black;
+}
+.text5{
+	float: right;
+    margin-top: 207px;
+    margin-bottom: 30px;
+    position: relative;
+    left: 338px;
+}
